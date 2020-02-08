@@ -32,9 +32,3 @@ def fibLinear(x):
     
 
    
-for i in range(35):
-    print(fibLinear(i))
-    
-for i in range(35):
-    print(fibRecursive(i))
- 
